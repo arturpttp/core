@@ -1,0 +1,4 @@
+name: Core
+version: 2.0-ALPHA
+main: net.dev.art.core.Core
+author: ArturDev
